@@ -1,0 +1,6 @@
+name: Senior Systems Module
+description: Integrates Senior Systems' Web Services with Drupal.
+package: Custom
+configure: senior_systems_api.settings
+type: module
+core: 8.x

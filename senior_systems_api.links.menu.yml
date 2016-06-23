@@ -1,0 +1,5 @@
+senior_systems_api.settings:
+  title: 'Senior Systems'
+  description: 'Configure Senior Systems Interface.'
+  parent: system.admin_config_services
+  route_name: senior_systems_api.settings

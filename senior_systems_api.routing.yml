@@ -1,0 +1,7 @@
+senior_systems_api.settings:
+  path: '/admin/config/senior_systems_api'
+  defaults:
+    _form: '\Drupal\senior_systems_api\Form\SeniorSystemsSettingsForm'
+    _title: 'Senior Systems API Settings'
+  requirements:
+    _permission: 'administer site configuration'
